@@ -17,7 +17,8 @@ In this Github repository you will find:
 The data we are using comes from the City of Seattle. The data contains 46,305 entries
 
 **Model**
-We created multiple models 
+We created 3 models to predict if race played a role in the resolution of getting arrested during a Terry stop
+
 
 **Findings (TLDR)**
 
