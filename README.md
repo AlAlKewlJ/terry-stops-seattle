@@ -27,4 +27,5 @@ Race did play a role
 **Code Book**
 
 You can find the code book at the URL below:
+
 https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8
